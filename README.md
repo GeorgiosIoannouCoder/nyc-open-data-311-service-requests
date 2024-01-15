@@ -34,6 +34,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#dataset">Dataset</a></li>
         <li><a href="#key-features">Key Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -59,6 +60,13 @@
 
  <img src="nyc311_logo.png" alt="Logo" width="200" height="200">
 
+### Dataset
+
+1. The link to the NYC Open Data 311 Service Requests datset is [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
+2. The dataset has:
+   1. 1 Table (as of March 20, 2022)
+   2. 28,28,717 rows (as of March 20, 2022)
+   3. 41 columns (as of March 20, 2022)
 
 ### Key Features
 
@@ -227,7 +235,7 @@ Project Link: [https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service
 [SQL]: https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sql&logoColor=ffffff
 [SQL-url]: https://aws.amazon.com/what-is/sql/
 
-[MySQL]: https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=
+[MySQL]: https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=
 [MySQL-url]: https://www.mysql.com/
 
 [Git]: https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=orange
