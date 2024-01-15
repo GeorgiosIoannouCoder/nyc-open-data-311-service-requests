@@ -17,7 +17,7 @@
 
 <h3 align="center"><a href="https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">NYC Open Data 311 Service Requests</a></h3>
   <p align="center">
-    This project illustrates how to **separate and organize an unorganized substantial dataset from NYC Open Data**. The dataset that this project focuses on is called **"311 Service Requests from 2010 to Present."** This dataset is owned by the NYC OpenData and it is provided by the Department of Information Technology & Telecommunications (DoITT). This dataset was first created on October 10, 2011, and is updated daily. This is a huge dataset and until March 20, 2022, had a total of **28,28,717 rows** where each row represents a 311 Service Request. The number of rows increases every day and as a result, there is a huge need to organize this dataset as it has already become meaningless, ambiguous, and it is extremely difficult to study and retrieve data. The dataset has **41 columns** and it is constant number meaning that the number of columns neither increasing nor decreasing over the years.
+    This project illustrates how to <b>separate and organize an unorganized substantial dataset from NYC Open Data</b>. The dataset that this project focuses on is called <b>"311 Service Requests from 2010 to Present."</b> This dataset is owned by the NYC OpenData and it is provided by the Department of Information Technology & Telecommunications (DoITT). This dataset was first created on October 10, 2011, and is updated daily. This is a huge dataset and until March 20, 2022, had a total of <b>28,28,717 rows</b> where each row represents a 311 Service Request. The number of rows increases every day and as a result, there is a huge need to organize this dataset as it has already become meaningless, ambiguous, and it is extremely difficult to study and retrieve data. The dataset has <b>41 columns</b> and it is constant number meaning that the number of columns neither increasing nor decreasing over the years.
     <br />
     <a href="https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,12 +85,12 @@
 1. [MySQL Server (To execute SQL queries)](https://dev.mysql.com/downloads/mysql/).
 2. [MySQL Workbench (The official graphical user interface too for MySQL)](https://dev.mysql.com/downloads/workbench/).
 3. [The two provided SQL files (The two SQL queries produce the unorganized and organized datasets)](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/tree/main/code).
-4. [The provided CSV file(A portion of the original dataset used to import data to the database. You can also go ahead and download the original 20GB (as of March 20, 2022) dataset)](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/blob/main/GEORGIOS_IOANNOU_Project_1.csv).
-   1. Link to original dataset is [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
+4. [The provided CSV file(A portion of the original dataset used to import data to the database. You can also go ahead and download the original dataset of size 20GB (as of March 20, 2022))](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/blob/main/GEORGIOS_IOANNOU_Project_1.csv).
+   1. Link to the original dataset can be found [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
    
 ### Installation
 
-Note:
+#### Note:
 
 1. [GEORGIOS_IOANNOU_Project_1_Original.sql](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/blob/main/code/GEORGIOS_IOANNOU_Project_1_Original.sql) is the SQL file that creates ***only*** one table for the dataset just like  how it is given [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
 
@@ -119,7 +119,7 @@ Note:
 
 ## ER-Diagram
 
-This is the ER-Diagram that I created to normalize the data in third normal form and thus organize the dataset.
+**This is the ER-Diagram that I created to normalize the data in third normal form and thus organize the dataset.**
 
 <img src="GEORGIOS_IOANNOU_Project_1.png" alt="ER-Diagram">
 
