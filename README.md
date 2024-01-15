@@ -127,7 +127,7 @@
 
 ## ER-Diagram
 
-**This is the ER-Diagram that I created to normalize the data in third normal form and thus organize the dataset.**
+**This is the ER-Diagram that I created to normalize the data in third normal form and thus organize the dataset. I created 15 tables from the 1 table that was given in the original dataset.**
 
 <img src="GEORGIOS_IOANNOU_Project_1.png" alt="ER-Diagram">
 
