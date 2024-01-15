@@ -150,9 +150,9 @@ CREATE TABLE service_request(
     FOREIGN KEY(assigned_agency_id)               REFERENCES agency(agency_id),
     FOREIGN KEY(description_complaint_id)         REFERENCES complaint(complaint_id),
     FOREIGN KEY(resolved_resolution_id)           REFERENCES resolution(resolution_id),
-	FOREIGN KEY(location_address_id)              REFERENCES address(address_id),
+    FOREIGN KEY(location_address_id)              REFERENCES address(address_id),
     FOREIGN KEY(identification_taxi_id)           REFERENCES taxi(taxi_id),
-	FOREIGN KEY(identification_bridge_highway_id) REFERENCES bridge_highway(bridge_highway_id)
+    FOREIGN KEY(identification_bridge_highway_id) REFERENCES bridge_highway(bridge_highway_id)
 );
 
 INSERT INTO agency
