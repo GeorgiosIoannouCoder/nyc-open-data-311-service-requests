@@ -169,7 +169,7 @@ VALUES (1, 'DEP', 'Department of Environmental Protection'),
 
 INSERT INTO complaint
 VALUES (1, 'Sidewalk Condition', 'Broken Sidewalk', NULL, 'MOBILE'),
-	   (2, 'Sidewalk Condition', 'Sidewalk Violation', NULL, 'ONLINE'),
+       (2, 'Sidewalk Condition', 'Sidewalk Violation', NULL, 'ONLINE'),
        (3, 'NonCompliance with Phased Reopening', 'Business not in compliance', NULL, 'PHONE'),
        (4, 'Noise - Residential', 'Loud Music/Party', NULL, 'ONLINE'),
        (5, 'Industrial Waste', 'Wastewater Into Catch Basin (IEB)', NULL, 'PHONE'),
