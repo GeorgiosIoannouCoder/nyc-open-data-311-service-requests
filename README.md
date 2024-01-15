@@ -1,4 +1,4 @@
-# NYC Open Data 311 Service Requests | Organizing the Database
+# NYC Open Data 311 Service Requests | Organizing Data
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
