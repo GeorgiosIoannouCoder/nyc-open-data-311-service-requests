@@ -106,7 +106,7 @@
 
 #### SetUp
 
-1. Download the two provided SQL files and the CSV file.
+1. Download the two provided [SQL files](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/tree/main/code) and the [CSV file](https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests/blob/main/GEORGIOS_IOANNOU_Project_1.csv).
 2. Open MySQL Workbench and connect to your MySQL Server Connection using your password.
 3. In the Query 1 file, execute the following statement:
     ```
