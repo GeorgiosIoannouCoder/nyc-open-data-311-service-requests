@@ -17,7 +17,7 @@
 
 <h3 align="center"><a href="https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">NYC Open Data 311 Service Requests</a></h3>
   <p align="center">
-    This project illustrates how to <b>separate and organize an unorganized substantial dataset from NYC Open Data</b>. The dataset that this project focuses on is called <b>"311 Service Requests from 2010 to Present."</b> This dataset is owned by the NYC OpenData and it is provided by the Department of Information Technology & Telecommunications (DoITT). This dataset was first created on October 10, 2011, and is updated daily. This is a huge dataset and until March 20, 2022, had a total of <b>28,28,717 rows</b> where each row represents a 311 Service Request. The number of rows increases every day and as a result, there is a huge need to organize this dataset as it has already become meaningless, ambiguous, and it is extremely difficult to study and retrieve data. The dataset has <b>41 columns</b> and it is constant number meaning that the number of columns neither increasing nor decreasing over the years.
+    This project illustrates how to <b>separate and organize an unorganized substantial dataset from NYC Open Data</b>. The dataset that this project focuses on is called <b>"311 Service Requests from 2010 to Present."</b> This dataset is owned by the NYC OpenData and it is provided by the Department of Information Technology & Telecommunications (DoITT). This dataset was first created on October 10, 2011, and is updated daily. This is a huge dataset and until March 20, 2022, had a total of <b>28,280,717 rows</b> where each row represents a 311 Service Request. The number of rows increases every day and as a result, there is a huge need to organize this dataset as it has already become meaningless, ambiguous, and it is extremely difficult to study and retrieve data. The dataset has <b>41 columns</b> and it is constant number meaning that the number of columns neither increasing nor decreasing over the years.
     <br />
     <a href="https://github.com/GeorgiosIoannouCoder/nyc-open-data-311-service-requests"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +65,7 @@
 1. The link to the NYC Open Data 311 Service Requests datset is [here](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
 2. The dataset has:
    1. 1 Table (as of March 20, 2022)
-   2. 28,28,717 rows (as of March 20, 2022)
+   2. 28,280,717 rows (as of March 20, 2022)
    3. 41 columns (as of March 20, 2022)
 
 ### Key Features
